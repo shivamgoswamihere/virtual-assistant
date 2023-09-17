@@ -1,5 +1,5 @@
 
-# Virtual Assistant 🤖 (UNDER PROGRESS)
+# Virtual Assistant 🤖 (Basic Version)
 
 The current features of the program are
 - recognize English language 📑
